@@ -91,9 +91,9 @@ header {
 
 .cnt {
     text-align: center;
-    color: #ffffff; /* Neon green color */
-    font-size: 5em; /* Adjust as needed */
-    font-family: 'Arial', sans-serif; /* Choose a bold font */
+    color: #ffffff;
+    font-size: 5em;
+    font-family: 'Arial', sans-serif;
     text-shadow: 
         0 0 5px #ececec,
         0 0 20px #ececec;
